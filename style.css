@@ -15,7 +15,7 @@ body {
 }
 
 #bg-img {
-  background-image: url(./img/poster.jpg);
+  background-image: url('./img/poster.jpg');
 }
 
 li {
